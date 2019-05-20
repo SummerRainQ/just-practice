@@ -1,3 +1,2 @@
 "# just-practice" 
-# just-practice
-# just-practice
+# practicing and learning
